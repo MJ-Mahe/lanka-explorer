@@ -1,22 +1,13 @@
 # Lanka Explorer
 
-**Live link:** _(add your Netlify / GitHub Pages link here if you deployed)_
+**Live link:** [_(add your Netlify / GitHub Pages link here if you deployed)_](https://github.com/MJ-Mahe/lanka-explorer)
 
-**Group name:** _(your group name)_
+**Projected by:** _(your group name)_G.D.M. Jeewanthi Ganewaththa
 **Tagline:** Lanka Explorer – Discover the Pearl of the Indian Ocean
 
 ## Project description
 
 Lanka Explorer is a front-end web app for planning a trip around Sri Lanka. Visitors can browse 10 destinations, check live weather, see entry fees in US dollars and Sri Lankan rupees, view places on a map, and build a trip with a total budget.
-
-## Members and roles
-
-| Member | Role |
-|--------|------|
-| _(name)_ | Project Lead |
-| _(name)_ | Content Lead |
-| _(name)_ | Data Lead |
-| _(name)_ | UI Lead |
 
 ## Features
 
