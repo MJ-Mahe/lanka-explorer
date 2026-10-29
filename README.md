@@ -1,6 +1,6 @@
 # Lanka Explorer
 
-**Live link:** [_(add your Netlify / GitHub Pages link here if you deployed)_](https://github.com/MJ-Mahe/lanka-explorer)
+**Live link:** [_([add your Netlify / GitHub Pages link here if you deployed](https://github.com/MJ-Mahe/lanka-explorer))_]
 
 **Projected by:** _(your group name)_G.D.M. Jeewanthi Ganewaththa
 **Tagline:** Lanka Explorer – Discover the Pearl of the Indian Ocean
